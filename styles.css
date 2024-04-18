@@ -1,0 +1,37 @@
+
+.flex{
+    display: flex;
+   
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.space-between{
+    justify-content: space-between;
+}
+.ph-100{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.ptb-50{
+    padding-top: 50px
+    padding-bottom 50px;
+}
+
+.max-width{
+    width: 100%;
+}
+
+.grid-c-2{
+    display: grid;
+    grid-template-columns: auto;
+}
+.grid-c-3{
+    display: grid;
+    grid-template-columns: auto;
+}
+.gap-50{
+    gap: 50px
+}
